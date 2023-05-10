@@ -3,5 +3,5 @@
 }
 
 .imagem{
-    image-resolution: 50, 100, 10;
+    image-orientation: flip;
 }
