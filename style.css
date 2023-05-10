@@ -1,3 +1,7 @@
 .Cabeçalho{
     background: linear-gradient(to bottom, green, red );
 }
+
+.imagem{
+    image-resolution: 50, 100, 10;
+}
