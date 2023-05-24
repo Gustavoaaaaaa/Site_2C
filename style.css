@@ -1,7 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
 .Cabeçalho{
-    background: linear-gradient(to bottom, green, red );
+    background-color: lemonchiffon;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .cabeçalho_imagem{
-    width: 100%;
+    width: 12%;
+}
+
+.cabeçalho_titulo{
+    font-size: 50px;
+}
+
+.cabecalho_lista{
+    margin: 25px 0px 25px 0px;
+    font-size: 16px;
+}
+
+.apresentaçao{
+    background-image: linear-gradient(lemonchiffon, #dd371a);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.apresentaçao_titulo{
+    font-size: 30px;
+}
+
+.PImentatta{
+    width: 15%;
 }
