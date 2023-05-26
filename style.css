@@ -39,3 +39,10 @@
 .PImentatta{
     width: 15%;
 }
+
+.intro_geral{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
