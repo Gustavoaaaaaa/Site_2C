@@ -51,3 +51,7 @@
 .intro{
     font-size: 30px;
 }
+
+body{
+    background-image: linear-gradient(lemonchiffon, #dd371a);
+}
