@@ -33,7 +33,7 @@
     padding: 24px 0;
 }
 .apresentaçao_titulo{
-    font-size: 30px;
+    font-size: 15px;
 }
 
 .PImentatta{
@@ -41,8 +41,13 @@
 }
 
 .intro_geral{
+    background-image: linear-gradient(lemonchiffon, #dd371a);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+}
+
+.intro{
+    font-size: 30px;
 }
