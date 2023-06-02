@@ -3,10 +3,6 @@
     padding: 0%;
 }
 
-.cabecalho_geral{
-    background-image: linear-gradient(#dd371a, lemonchiffon);
-}
-
 .Cabeçalho{
     color: black;
     display: flex;
