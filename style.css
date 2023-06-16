@@ -11,6 +11,10 @@
     padding: 24px 0;
 }
 
+.cabecalho_geral{
+    background-image: linear-gradient(to bottom, red, lemonchiffon);
+}
+
 .cabeçalho_imagem{
     width: 12%;
 }
@@ -22,6 +26,7 @@
 .cabecalho_lista{
     margin: 25px 0px 25px 0px;
     font-size: 16px;
+
 }
 
 .apresentaçao{
