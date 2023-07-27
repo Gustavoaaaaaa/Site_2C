@@ -34,13 +34,15 @@
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+    font-size: 15px;
+    background-color: #f9f3c2;
 }
 .apresentaçao_titulo{
-    font-size: 10px;
+    font-size: 30px;
 }
 
 .PImentatta{
-    width: 20%;
+    width: 30%;
 }
 
 .intro_geral{
@@ -69,4 +71,5 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: #f9f3c2;
 }
