@@ -61,7 +61,10 @@ body{
 }
 
 .semanas{
-    font-size: 20;
+    font-size: 20px;
 }
 
-
+.semanas12345{
+    font-size: 15px;
+    display: flex;
+}
