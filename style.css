@@ -36,7 +36,7 @@
     padding: 24px 0;
 }
 .apresentaçao_titulo{
-    font-size: 25px;
+    font-size: 10px;
 }
 
 .PImentatta{
@@ -61,3 +61,8 @@
 body{
     background-image: linear-gradient(lemonchiffon, #dd371a);
 }
+
+.semana_1{
+    font-size: 20;
+}
+
