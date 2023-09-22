@@ -26,7 +26,6 @@
 .cabecalho_lista{
     margin: 25 0;
     font-size: 20px;
-
 }
 
 .apresentaçao{
@@ -34,11 +33,11 @@
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
-    font-size: 15px;
+    font-size: 20px;
     background-color: #f9f3c2;
 }
 .apresentaçao_titulo{
-    font-size: 30px;
+    font-size: 50px;
 }
 
 .PImentatta{
