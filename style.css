@@ -52,10 +52,11 @@
     padding: 1px;
     margin: 1em;
     background-color: #f9f3c2;
+    font-size: 20px;
 }
 
 .intro{
-    font-size: 30px;
+    font-size: 40px;
 }
 
 body{
