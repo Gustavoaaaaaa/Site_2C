@@ -8,16 +8,16 @@ body{
 }
 
 .Artigos{
-    background-color: lemonchiffon;
+    background-image: linear-gradient(lemonchiffon, rgb(255, 240, 210))
     font-size: 20px
 }
 
 .resto{
-    background-color: rgb(255, 240, 210);
+    background-image: linear-gradient(rgb(255, 240, 210), rgb(255, 230, 220));
     font-size: 20px;
 }
 
 .colher{
-    background-color: rgb(255, 230, 220);
+    background-image: linear-gradient(rgb(255, 230, 220), rgb(255, 220, 230));
     font-size: 20px;
 }
