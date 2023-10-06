@@ -11,3 +11,13 @@ body{
     background-color: lemonchiffon;
     font-size: 20px
 }
+
+.resto{
+    background-color: rgb(255, 240, 210);
+    font-size: 20px;
+}
+
+.colher{
+    background-color: rgb(255, 230, 220);
+    font-size: 20px;
+}
